@@ -1,0 +1,10 @@
+Edad Persona[1]:23
+Edad Persona[2]:12
+Edad Persona[3]:23
+Edad Persona[4]:34
+Edad Persona[5]:23
+Edad Persona[6]:12
+Porcentaje ninos: 33.3333%
+Porcentaje jovenes: 50%
+Porcentaje adultos: 16.6667%
+Porcentaje aultos mayores: 0%

@@ -1,0 +1,10 @@
+Edad          Peso        Altura
+-858993460    -858993460    -858993460
+Edad          Peso        Altura
+2           120           155
+Edad          Peso        Altura
+19           120           165
+Edad          Peso        Altura
+20           140           169
+Edad          Peso        Altura
+21           170           172

@@ -1,0 +1,26 @@
+AGRICULTOR[1]
+TIPO DE SERVICIO: 3
+NUMERO DE HECTAREAS: 45
+Monto AGRICULTOR[1]:1350
+
+Cantidad de Servicios MALA HIERBA: 0
+Cantidad de Servicios LANGOSTAS: 0
+Cantidad de Servicios GUSANOS: 1
+Cantidad de Servicios TODO LO ANTERIOR: 0
+El tipo con mayor demanda es: 0
+El Monto total es: 1350
+
+
+AGRICULTOR[2]
+TIPO DE SERVICIO: 4
+NUMERO DE HECTAREAS: 456
+Monto AGRICULTOR[2]:20520
+
+Cantidad de Servicios MALA HIERBA: 0
+Cantidad de Servicios LANGOSTAS: 0
+Cantidad de Servicios GUSANOS: 1
+Cantidad de Servicios TODO LO ANTERIOR: 0
+El tipo con mayor demanda es: 0
+El Monto total es: 21870
+
+

@@ -1,0 +1,48 @@
+1 - Modelo A	2 - Modelo B
+1 - Color Blanco	2 - Color Metalizado	3 - Otro Color
+
+Modelo: 1
+Color: 1
+Edad Del Conductor: 49
+Costo De Importe: 240.5
+
+1 - Modelo A	2 - Modelo B
+1 - Color Blanco	2 - Color Metalizado	3 - Otro Color
+
+Modelo: 1
+Color: 3
+Edad Del Conductor: 45
+Costo De Importe: 270.5
+
+1 - Modelo A	2 - Modelo B
+1 - Color Blanco	2 - Color Metalizado	3 - Otro Color
+
+Modelo: 2
+Color: 3
+Edad Del Conductor: 23
+Costo De Importe: 412.5
+
+1 - Modelo A	2 - Modelo B
+1 - Color Blanco	2 - Color Metalizado	3 - Otro Color
+
+Modelo: 2
+Color: 2
+Edad Del Conductor: 70
+Costo De Importe: 468.65
+
+1 - Modelo A	2 - Modelo B
+1 - Color Blanco	2 - Color Metalizado	3 - Otro Color
+
+Modelo: 2
+Color: 2
+Edad Del Conductor: 34
+Costo De Importe: 360.5
+
+1 - Modelo A	2 - Modelo B
+1 - Color Blanco	2 - Color Metalizado	3 - Otro Color
+
+Modelo: 1
+Color: 1
+Edad Del Conductor: 24
+Costo De Importe: 300.625
+
